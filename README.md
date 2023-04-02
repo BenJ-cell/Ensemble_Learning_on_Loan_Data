@@ -4,6 +4,8 @@ In this project, I tried to predict whether a loan will be repaid or not.
 
 It is a classification problem where i used Ensemble Modelling combining predictions from: ExtraTrees, RandomForest, LightGBM, GradientBoosting and CatBoost Classifiers. The stacked model performed better than any other model on each of our 5-fold cross validation obtaining a mean accuracy of 95% as shown below.
 
+As those models all include feature importances easily I also ranked them by order of importance to get an idea of our most important predictive features of our models.
+
 
 Accuracies:
 
