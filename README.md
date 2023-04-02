@@ -8,15 +8,25 @@ It is a classification problem where i used Ensemble Modelling combining predict
 Accuracies:
 
 	RandomForest	ExtraTrees	LightGBM	GradientBoost	CatBoost	stackingModel
+	
 1st Fold
+
 	0.875232	0.751855	0.927180	0.938312	0.879870	0.951299
+
 2nd Fold	
+
 	0.882189	0.775046	0.913729	0.932746	0.887291	0.945733
-3rd Fold	
+
+3rd Fold
+
 	0.887755	0.793135	0.914657	0.942950	0.886827	0.950835
-4th Fold	
+
+4th Fold
+
 	0.884972	0.784787	0.917904	0.946660	0.889147	0.959184
-5th Fold	
+
+5th Fold
+
 	0.886827	0.780612	0.927644	0.940167	0.892857	0.955937
 	
 mean: -----------------------------------------------------------------------------------------------	
